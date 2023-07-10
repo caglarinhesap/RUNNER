@@ -306,6 +306,7 @@
 -r:"Library/Bee/artifacts/1300b0aP.dag/UnityEngine.UI.ref.dll"
 "Assets/Scripts/CamFlowPlayer.cs"
 "Assets/Scripts/CollisionControl.cs"
+"Assets/Scripts/MainMenu.cs"
 "Assets/Scripts/PlayerController.cs"
 -langversion:9.0
 

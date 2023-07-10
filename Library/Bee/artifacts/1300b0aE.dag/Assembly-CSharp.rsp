@@ -326,6 +326,8 @@
 -r:"E:/Unity/2021.3.15f1/Editor/Data/NetStandard/ref/2.1.0/netstandard.dll"
 -r:"E:/Unity/2021.3.15f1/Editor/Data/PlaybackEngines/AndroidPlayer/Unity.Android.Gradle.dll"
 -r:"E:/Unity/2021.3.15f1/Editor/Data/PlaybackEngines/AndroidPlayer/Unity.Android.Types.dll"
+-r:"E:/Unity/2021.3.15f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Common.dll"
+-r:"E:/Unity/2021.3.15f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/Unity.PlasticSCM.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/Unity.Rider.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/Unity.Services.Core.Analytics.ref.dll"
@@ -341,6 +343,7 @@
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEngine.UI.ref.dll"
 "Assets/Scripts/CamFlowPlayer.cs"
 "Assets/Scripts/CollisionControl.cs"
+"Assets/Scripts/MainMenu.cs"
 "Assets/Scripts/PlayerController.cs"
 -langversion:9.0
 
